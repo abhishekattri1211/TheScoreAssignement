@@ -9,7 +9,7 @@ Usage: There are there main files/componenst of the project in terms of files or
 4. POMXML: It contains all the dependencies which are required to run the prject.
 
 Configuration: To run this project user will require Java11, Node, Appium Inspector2.5.3, Eclipse IDE with Maven and Android Studio.
- Launch home brew in the terminal,  and run the command "appium --relaxed-security" to start the Appium server.
+ Launch terminal,  and run the command "appium --relaxed-security" to start the Appium server.
  Connect the repective device to the computer through a cable with "USB Debugging mode" turned on for the device.
  Launch the Android Studio.
  Goto Eclipse IDE and run the Test file named as "LeaguesTest".
