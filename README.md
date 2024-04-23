@@ -13,4 +13,8 @@ Configuration: To run this project user will require Java11, Node, Appium Inspec
  Connect the repective device to the computer through a cable with "USB Debugging mode" turned on for the device.
  Launch the Android Studio.
  Goto Eclipse IDE and run the Test file named as "LeaguesTest".
- 
+
+Location of the project files:
+LeaguesPage: src/test/java --> Pages
+Utiliies: src/test/java --> com/example/appium --> Utils
+LeaguesTest: src/test/java --> com/example/appium --> Tests
